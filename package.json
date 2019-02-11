@@ -1,0 +1,27 @@
+{
+  "name": "random-choice",
+  "version": "1.0.0",
+  "description": "Get a weighted random item from an array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carewdavid/random-choice.git"
+  },
+  "keywords": [
+    "random",
+    "rand",
+    "array",
+    "item",
+    "pick",
+    "weighted"
+  ],
+  "author": "David Carew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carewdavid/random-choice/issues"
+  },
+  "homepage": "https://github.com/carewdavid/random-choice#readme"
+}

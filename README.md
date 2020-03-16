@@ -1,6 +1,6 @@
 # random-choice
 
->Get a random item from an array with a weighted probablility
+>Get a random item from an array with a weighted probability
 
 ## Install
 ```
@@ -11,7 +11,7 @@ $ npm install random-choice
 ```js
 const randomChoice = require('random-choice');
 
-//Give relative wqeights for the items in your array
+//Give relative weights for the items in your array
 randomChoice(['apple', 'orange', 'banana'], [.50, .25, .25]);
 //=> 'apple'
 
